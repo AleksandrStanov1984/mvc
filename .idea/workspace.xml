@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d77b7c6f-8382-401e-9b8a-6ce34495162e" name="Default Changelist" comment="" />
+    <list default="true" id="d77b7c6f-8382-401e-9b8a-6ce34495162e" name="Default Changelist" comment="New site MVC">
+      <change beforePath="$PROJECT_DIR$/config/db_params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/db_params.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,23 @@
       <updated>1611841377117</updated>
       <workItem from="1611841379724" duration="10000" />
       <workItem from="1611841460194" duration="16000" />
+      <workItem from="1611841512185" duration="326000" />
     </task>
+    <task id="LOCAL-00001" summary="New site MVC">
+      <created>1611841619496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611841619496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New site MVC">
+      <created>1611841796176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611841796176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,5 +72,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New site MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="New site MVC" />
   </component>
 </project>
