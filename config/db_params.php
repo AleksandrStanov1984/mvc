@@ -2,7 +2,7 @@
 
 return array(
     'host' => 'localhost',
-    'dbname' => 'testnetpeak',
+    'dbname' => 'test',
     'user' => 'root',
     'password' => 'root',
 );
