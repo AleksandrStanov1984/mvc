@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d77b7c6f-8382-401e-9b8a-6ce34495162e" name="Default Changelist" comment="New site MVC">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d77b7c6f-8382-401e-9b8a-6ce34495162e" name="Default Changelist" comment="Add README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
       <updated>1611841377117</updated>
       <workItem from="1611841379724" duration="10000" />
       <workItem from="1611841460194" duration="16000" />
-      <workItem from="1611841512185" duration="1221000" />
+      <workItem from="1611841512185" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="New site MVC">
       <created>1611841619496</created>
@@ -70,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611841861462</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add README">
+      <created>1611842788121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842788121</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add README">
+      <created>1611842812719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842812719</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New site MVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="New site MVC" />
+    <MESSAGE value="Add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README" />
   </component>
 </project>
