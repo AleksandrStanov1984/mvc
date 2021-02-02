@@ -8,7 +8,7 @@ class ProductsController
 {
     public function actionIndex(): bool
     {
-        $count= 1;
+        $count= 0;
         $countReview = array();
         $productList = array();
 
@@ -21,7 +21,7 @@ class ProductsController
                 $count++;
             }
             array_push($countReview, $count);
-            $count = 1;
+            $count = 0;
         }
 
         $data = ['productList' => $productList,
