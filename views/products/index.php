@@ -54,7 +54,7 @@
                 </tr>
                 </thead>
                 <tbody>
-                <p style="display: none" ><?= $count = 0?></p>
+                <span style="display: none" ><?= $count = 0?></span>
                 <?php foreach ($productList as $p): ?>
                     <tr style="border-bottom: solid #b6b6b6 1px;height: 60px; text-align: center;">
                         <td>
@@ -69,7 +69,7 @@
 
                         <td style="line-height: 2;"><?php echo $countReview[$count]; ?></td>
                     </tr>
-                    <p style="display: none" ><?= $count++?></p>
+                    <span style="display: none" ><?= $count++?></span>
                 <?php endforeach; ?>
                 </tbody>
             </table>
